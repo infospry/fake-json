@@ -1,1 +1,208 @@
+{
+  users:[
+  {
+    "id": 1,
+    "name": "Jake Thompson",
+    "email": "jake.thompson@example.com",
+    "password": "pass1"
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "password": "pass2"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "password": "pass3"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson@example.com",
+    "password": "pass4"
+  },
+  {
+    "id": 5,
+    "name": "David Miller",
+    "email": "david.miller@example.com",
+    "password": "pass5"
+  },
+  {
+    "id": 6,
+    "name": "Laura Martinez",
+    "email": "laura.martinez@example.com",
+    "password": "pass6"
+  },
+  {
+    "id": 7,
+    "name": "Chris Anderson",
+    "email": "chris.anderson@example.com",
+    "password": "pass7"
+  },
+  {
+    "id": 8,
+    "name": "Jessica Adams",
+    "email": "jessica.adams@example.com",
+    "password": "pass8"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Thompson",
+    "email": "daniel.thompson@example.com",
+    "password": "pass9"
+  },
+  {
+    "id": 10,
+    "name": "Sophia Lee",
+    "email": "sophia.lee@example.com",
+    "password": "pass10"
+  },
+  {
+    "id": 11,
+    "name": "Ethan Taylor",
+    "email": "ethan.taylor@example.com",
+    "password": "pass11"
+  },
+  {
+    "id": 12,
+    "name": "Ava Edwards",
+    "email": "ava.edwards@example.com",
+    "password": "pass12"
+  },
+  {
+    "id": 13,
+    "name": "James White",
+    "email": "james.white@example.com",
+    "password": "pass13"
+  },
+  {
+    "id": 14,
+    "name": "Mia Rodriguez",
+    "email": "mia.rodriguez@example.com",
+    "password": "pass14"
+  },
+  {
+    "id": 15,
+    "name": "Benjamin Lewis",
+    "email": "benjamin.lewis@example.com",
+    "password": "pass15"
+  },
+  {
+    "id": 16,
+    "name": "Lily Walker",
+    "email": "lily.walker@example.com",
+    "password": "pass16"
+  },
+  {
+    "id": 17,
+    "name": "Oliver Hall",
+    "email": "oliver.hall@example.com",
+    "password": "pass17"
+  },
+  {
+    "id": 18,
+    "name": "Amelia Young",
+    "email": "amelia.young@example.com",
+    "password": "pass18"
+  },
+  {
+    "id": 19,
+    "name": "Henry King",
+    "email": "henry.king@example.com",
+    "password": "pass19"
+  },
+  {
+    "id": 20,
+    "name": "Chloe Wright",
+    "email": "chloe.wright@example.com",
+    "password": "pass20"
+  }
+],
+rides:[
+  {
+    "id": 101,
+    "date": "2025-03-01",
+    "pickup": "123 Main St",
+    "destination": "City Center",
+    "type": "UberX",
+    "fare": 12
+  },
+  {
+    "id": 102,
+    "date": "2025-03-02",
+    "pickup": "Mall Plaza",
+    "destination": "Airport Terminal 1",
+    "type": "UberXL",
+    "fare": 20
+  },
+  {
+    "id": 103,
+    "date": "2025-03-03",
+    "pickup": "College Campus",
+    "destination": "Hotel Grand",
+    "type": "UberBlack",
+    "fare": 30
+  },
+  {
+    "id": 104,
+    "date": "2025-03-04",
+    "pickup": "Park Avenue",
+    "destination": "Central Station",
+    "type": "UberX",
+    "fare": 14
+  },
+  {
+    "id": 105,
+    "date": "2025-03-05",
+    "pickup": "Museum Lane",
+    "destination": "Downtown Square",
+    "type": "UberX",
+    "fare": 10
+  },
+  {
+    "id": 106,
+    "date": "2025-03-06",
+    "pickup": "Beach Road",
+    "destination": "Conference Center",
+    "type": "UberXL",
+    "fare": 18
+  },
+  {
+    "id": 107,
+    "date": "2025-03-07",
+    "pickup": "University Gate",
+    "destination": "Shopping Complex",
+    "type": "UberBlack",
+    "fare": 35
+  },
+  {
+    "id": 108,
+    "date": "2025-03-08",
+    "pickup": "Residential Block A",
+    "destination": "Cinema Hall",
+    "type": "UberX",
+    "fare": 13
+  },
+  {
+    "id": 109,
+    "date": "2025-03-09",
+    "pickup": "Business Tower",
+    "destination": "Train Station",
+    "type": "UberXL",
+    "fare": 22
+  },
+  {
+    "id": 110,
+    "date": "2025-03-10",
+    "pickup": "Suburban Street",
+    "destination": "Night Market",
+    "type": "UberX",
+    "fare": 9
+  }
+]
+}
+
 
